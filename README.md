@@ -41,17 +41,16 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Conclusions
 - Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Factors Contributing safer loans
+- Factors Contribuing default loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python Pandas
+- Python Numpy
+- Python visualization - matplotlib & Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
