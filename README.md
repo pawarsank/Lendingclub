@@ -41,26 +41,8 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Conclusions
 
-##Recommendations to offer more loans to increase business.
 
-1. Offer High income borrowers with competitive interest rate for loan category of  Debt consolidation, car, wedding. 
-    as they have higher chances of repayment.
-2. Customer with high income (60000+) have good records of replaying full loans.    
-   
-    We recommend to attract more customers with high income (60000+) with competitive interest rate to increase   
-    business.
-3. Target Customer with lesser revolving credit utilization as they have high chances of loan repayment. 
 
-##Recommendations to avoid defaulting loans to restrict loss.
- 
-1. Avoid loan for purpose of Small Business as they have high chances of default. 
-  
-2. Avoid loan or charge higher interest rate to borrower having more public derogatory records as they have higher 
-   chances of defaults. 
-  
-3. Reduce loan amount to borrowers having less income.( income < 40000) or higher DTI. 
-  
-4. Reduce loan amount to borrowers having high utilization of revolving credit. 
 ![image](https://user-images.githubusercontent.com/108537520/183946944-6bceb6cd-28bc-4daa-86f2-d728916c321f.png)
  
 
