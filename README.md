@@ -40,8 +40,18 @@ To develop your understanding of the domain, you are advised to independently re
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+1. Offer High income borrowers with competitive interest rate for loan category of  Debt consolidation, car, wedding. 
+    as they have higher chances of repayment.
+
+2. Customer with high income (60000+) have good records of replaying full loans.    
+     
+    We recommend to attract more customers with high income (60000+) with competitive interest rate to increase   
+    business.
+  
+3. Target Customer with lesser revolving credit utilization as they have high chances of loan repayment. 
+
+![image](https://user-images.githubusercontent.com/108537520/183948698-3bde642c-4bc3-4c51-9262-aa8a75e2bfdf.png)
 
 
 ## Technologies Used
