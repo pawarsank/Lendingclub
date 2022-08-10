@@ -41,13 +41,6 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Conclusions
 
-
-
-![image](https://user-images.githubusercontent.com/108537520/183946944-6bceb6cd-28bc-4daa-86f2-d728916c321f.png)
- 
-
-
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
