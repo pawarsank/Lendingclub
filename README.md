@@ -45,8 +45,6 @@ To develop your understanding of the domain, you are advised to independently re
 Recommendations to offer more loans to increase business.
 ![image](https://user-images.githubusercontent.com/108537520/183950124-e3cbf9cd-7744-4918-9d4e-8c250194caf1.png)
 
-![image](https://user-images.githubusercontent.com/108537520/183949251-fd718b46-5ed7-4768-bd4d-b27cb5eb535e.png)
-
 1. Offer High income borrowers with competitive interest rate for loan category of  Debt consolidation, car, wedding. 
     as they have higher chances of repayment.
 
