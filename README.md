@@ -41,6 +41,10 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Conclusions
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+Recommendations to offer more loans to increase business.
+![image](https://user-images.githubusercontent.com/108537520/183949251-fd718b46-5ed7-4768-bd4d-b27cb5eb535e.png)
+
 1. Offer High income borrowers with competitive interest rate for loan category of  Debt consolidation, car, wedding. 
     as they have higher chances of repayment.
 
@@ -52,6 +56,19 @@ To develop your understanding of the domain, you are advised to independently re
 3. Target Customer with lesser revolving credit utilization as they have high chances of loan repayment. 
 
 ![image](https://user-images.githubusercontent.com/108537520/183948698-3bde642c-4bc3-4c51-9262-aa8a75e2bfdf.png)
+
+Recommendations to avoid defaulting loans to restrict loss.
+![image](https://user-images.githubusercontent.com/108537520/183949379-a1f94edc-aefe-4c56-9147-29e0d81a7be8.png)
+
+1. Avoid loan for purpose of Small Business as they have high chances of default. 
+  
+2. Avoid loan or charge higher interest rate to borrower having more public derogatory records as they have higher 
+   chances of defaults. 
+  
+3. Reduce loan amount to borrowers having less income.( income < 40000) or higher DTI. 
+  
+4. Reduce loan amount to borrowers having high utilization of revolving credit. 
+![image](https://user-images.githubusercontent.com/108537520/183949152-4ac9ddfb-deeb-4c87-a124-8100506219de.png)
 
 
 ## Technologies Used
@@ -69,7 +86,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@pawarsank] - feel free to contact me!
 
 
 <!-- Optional -->
