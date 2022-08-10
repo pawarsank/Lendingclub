@@ -43,7 +43,6 @@ To develop your understanding of the domain, you are advised to independently re
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 Recommendations to offer more loans to increase business.
-![image](https://user-images.githubusercontent.com/108537520/183950124-e3cbf9cd-7744-4918-9d4e-8c250194caf1.png)
 
 1. Offer High income borrowers with competitive interest rate for loan category of  Debt consolidation, car, wedding. 
     as they have higher chances of repayment.
@@ -58,7 +57,6 @@ Recommendations to offer more loans to increase business.
 ![image](https://user-images.githubusercontent.com/108537520/183948698-3bde642c-4bc3-4c51-9262-aa8a75e2bfdf.png)
 
 Recommendations to avoid defaulting loans to restrict loss.
-![image](https://user-images.githubusercontent.com/108537520/183950264-6ad20cf4-b571-4fdc-a56d-a2bdc469bc7b.png)
 
 1. Avoid loan for purpose of Small Business as they have high chances of default. 
   
