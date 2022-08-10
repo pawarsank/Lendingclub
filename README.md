@@ -77,10 +77,7 @@ Recommendations to avoid defaulting loans to restrict loss.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This case study is authered by Sanket Pawar & Pritam Narkar.
 
 
 ## Contact
